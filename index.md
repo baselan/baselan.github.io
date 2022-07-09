@@ -1,16 +1,16 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>潘雨露</h1>
+      <h1>xxx</h1>
       <p><b>本科在读</b></p>
       <p><b>学校：浙大城市学院</b></p>
-      <p><b>邮箱：2956864750@qq.com</b></p>
-      <p><b>电话：18357118279</b></p>
+      <p><b>邮箱：xxxxx</b></p>
+      <p><b>电话：xxxxx</b></p>
       <p><b>地址：浙江省杭州市浙大城市学院</b></p>
       <p><b>邮编：310000</b></p>
     </td>
     <td width="25%">
-      <img src="/1.jpg" width="100%">      
+      <img src="/11111.jpg" width="100%">      
     </td>
   </tr>
 </table>
